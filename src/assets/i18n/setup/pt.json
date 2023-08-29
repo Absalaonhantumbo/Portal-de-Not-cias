@@ -1,0 +1,339 @@
+{
+  "CATEGORY": {
+    "TABLES": {
+      "TITLE": "Categorias",
+      "SHOW": "Mostrar",
+      "ENTRIES": "Entradas",
+      "SEARCH_BY_NAME": "Pesquisar Pelo Nome",
+      "ID": "Id",
+      "NAME": "Nome",
+      "ACTIONS": "Acções",
+      "ADD_CATEGORY": "Adicionar Categoria",
+      "EDIT_CATEGORY": "Editar Categoria",
+      "DELETE_CATEGORY": "Apagar Categoria"
+    },
+    "CATEGORY_ADD": {
+      "TITLE_EDIT": "Editar Categoria",
+      "TITLE_ADD": "Adicionar Nova Categoria",
+      "LABEL_NAME": "Nome",
+      "ERROR": {
+        "NAME_IS": "Nome é",
+        "REQUIRED": "Obrigatório"
+      },
+      "ADD": "Adicionar",
+      "EDIT": "Editar",
+      "CANCEL": "Cancelar"
+    },
+    "DELETE": {
+      "DELETE_TITLE": "Apagar Categoria",
+      "DELETE_QUESTION": "Tem certeza que deseja excluir esta categoria?",
+      "YES": "Sim",
+      "NO": "Não"
+    },
+    "UPLOAD": {
+      "UPLOAD_TITLE": "Carregar categorias",
+      "NAME": "Nome",
+      "PROGRESS": "Progresso da fila",
+      "UPLOAD": "Carregar",
+      "REMOVE": "Remover",
+      "CANCEL": "Cancelar",
+      "FAIL_MESSAGE": "Falha ao registrar categorias",
+      "SUCCESS_MESSAGE": "Categorias adicionadas com sucesso"
+    },
+    "ALERT": "Nenhuma categoria definida!",
+    "LOADING": "Carregando...",
+    "SAVING": "salvando...",
+    "CATEGORY": "Categoria",
+    "ADD_UPLOAD": "Carregar Categorias",
+    "HOME": "Pagina Inicial"
+  },
+  "AGENT": {
+    "TABLES": {
+      "TITLE": "Agentes",
+      "SHOW": "Mostrar",
+      "ENTRIES": "Entradas",
+      "SEARCH_BY_NAME": "Pesquisar Pelo Nome",
+      "ID": "Id",
+      "NAME": "Nome",
+      "ACTIONS": "Acções",
+      "ADD_AGENT": "Adicionar Agente",
+      "EDIT_AGENT": "Editar Agente",
+      "DELETE_AGENT": "Apagar Agente"
+    },
+    "AGENT_ADD": {
+      "TITLE_EDIT": "Editar Agente",
+      "TITLE_ADD": "Adicionar Nova Agente",
+      "LABEL_NAME": "Nome",
+      "ERROR": {
+        "NAME_IS": "Nome é",
+        "REQUIRED": "Obrigatório"
+      },
+      "ADD": "Adicionar",
+      "EDIT": "Editar",
+      "CANCEL": "Cancelar"
+    },
+    "DELETE": {
+      "DELETE_TITLE": "Apagar Agente",
+      "DELETE_QUESTION": "Tem certeza que deseja excluir este agente?",
+      "YES": "Sim",
+      "NO": "Não"
+    },
+    "UPLOAD": {
+      "UPLOAD_TITLE": "Carregar agentes",
+      "NAME": "Nome",
+      "PROGRESS": "Progresso da fila",
+      "UPLOAD": "Carregar",
+      "REMOVE": "Remover",
+      "CANCEL": "Cancelar",
+      "FAIL_MESSAGE": "Falha ao registrar agentes",
+      "SUCCESS_MESSAGE": "Agentes adicionados com sucesso"
+    },
+    "ALERT": "Nenhuma categoria definida!",
+    "LOADING": "Carregando...",
+    "SAVING": "salvando...",
+    "AGENT": "Agente",
+    "ADD_UPLOAD": "Carregar Agentes",
+    "HOME": "Pagina Inicial"
+  },
+
+    "CARGO_OWNER": {
+        "TABLES": {
+            "TITLE": "CargoOwners",
+            "SHOW": "Mostrar",
+            "ENTRIES": "Entradas",
+            "SEARCH_BY_NAME": "Pesquisar Pelo Nome",
+            "ID": "Id",
+            "NAME": "Nome",
+            "ACTIONS": "Acções",
+            "ADD_CARGO_OWNER": "Adicionar CargoOwner",
+            "EDIT_CARGO_OWNER": "Editar CargoOwner",
+            "DELETE_CARGO_OWNER": "Apagar CargoOwner"
+        },
+        "CARGO_OWNER_ADD": {
+            "TITLE_EDIT": "Editar CargoOwner",
+            "TITLE_ADD": "Adicionar Novo CargoOwner",
+            "LABEL_NAME": "Nome",
+            "ERROR": {
+                "NAME_IS": "Nome é",
+                "REQUIRED": "Obrigatório"
+            },
+            "ADD": "Adicionar",
+            "EDIT": "Editar",
+            "CANCEL": "Cancelar"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Apagar CargoOwner",
+            "DELETE_QUESTION": "Tem certeza que deseja excluir este CargoOwner?",
+            "YES": "Sim",
+            "NO": "Não"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Carregar CargoOwners",
+            "NAME": "Nome",
+            "PROGRESS": "Progresso da fila",
+            "UPLOAD": "Carregar",
+            "REMOVE": "Remover",
+            "CANCEL": "Cancelar",
+            "FAIL_MESSAGE": "Falha ao registrar CargoOwners",
+            "SUCCESS_MESSAGE": "CargoOwners adicionados com sucesso"
+        },
+        "ALERT": "Nenhuma categoria definida!",
+        "LOADING": "Carregando...",
+        "SAVING": "salvando...",
+        "CARGO_OWNER": "CargoOwner",
+        "ADD_UPLOAD": "Carregar CargoOwners",
+        "HOME": "Pagina Inicial"
+  },
+    "CARGO_GRADE": {
+        "TABLES": {
+            "TITLE": "Cargo grades",
+            "SHOW": "Mostrar",
+            "ENTRIES": "Entradas",
+            "SEARCH_BY_NAME": "Pesquisar Pelo Nome",
+            "ID": "Id",
+            "NAME": "Nome",
+            "ACTIONS": "Acções",
+            "ADD_CARGO_GRADE": "Adicionar Agente",
+            "EDIT_CARGO_GRADE": "Editar Cargo grade",
+            "DELETE_CARGO_GRADE": "Apagar Cargo grade"
+        },
+        "CARGO_GRADE_ADD": {
+            "TITLE_EDIT": "Editar Cargo grade",
+            "TITLE_ADD": "Adicionar Novo Cargo grade",
+            "LABEL_NAME": "Nome",
+            "ERROR": {
+                "NAME_IS": "Nome é",
+                "REQUIRED": "Obrigatório"
+            },
+            "ADD": "Adicionar",
+            "EDIT": "Editar",
+            "CANCEL": "Cancelar"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Apagar Cargo grade",
+            "DELETE_QUESTION": "Tem certeza que deseja excluir este Cargo grade?",
+            "YES": "Sim",
+            "NO": "Não"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Carregar Cargo grades",
+            "NAME": "Nome",
+            "PROGRESS": "Progresso da fila",
+            "UPLOAD": "Carregar",
+            "REMOVE": "Remover",
+            "CANCEL": "Cancelar",
+            "FAIL_MESSAGE": "Falha ao registrar Cargo grades",
+            "SUCCESS_MESSAGE": "Cargo grades adicionados com sucesso"
+        },
+        "ALERT": "Nenhum Cargo grade definida!",
+        "LOADING": "Carregando...",
+        "SAVING": "salvando...",
+        "CARGO_GRADE": "Cargo grade",
+        "ADD_UPLOAD": "Carregar Cargo grades",
+        "HOME": "Pagina Inicial"
+    },
+    "WAGONSTATUS": {
+        "TABLES": {
+            "TITLE": "Estado dos Vagões",
+            "SHOW": "Mostrar",
+            "ENTRIES": "Entradas",
+            "SEARCH_BY_DESCRIPTION": "Pesquisar pela descrição",
+            "ID": "Id",
+            "DESCRIPTION": "Descrição",
+            "ACTIONS": "Acções",
+            "ADD_WAGONSTATUS": "Adicionar Estado Dos Vagões",
+            "EDIT_WAGONSTATUS": "Editar Estado Dos  Vagões",
+            "DELETE_WAGONSTATUS": "Apagar Estado Dos Vagões"
+        },
+        "WAGONSTATUS_ADD": {
+            "TITLE_EDIT": "Editar Estado Dos Vagões",
+            "TITLE_ADD": "Adicionar Novo Estado Dos Vagões",
+            "LABEL_NAME": "Descrição",
+            "ERROR": {
+                "DESCRIPTION_IS": "A descrição é",
+                "REQUIRED": "Obrigatória"
+            },
+            "ADD": "Adicionar",
+            "EDIT": "Editar",
+            "CANCEL": "Cancelar"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Apagar Vagões",
+            "DELETE_QUESTION": "Tem certeza que deseja excluir este vagão?",
+            "YES": "Sim",
+            "NO": "Não"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Carregar vagões",
+            "NAME": "Nome",
+            "PROGRESS": "Progresso da fila",
+            "UPLOAD": "Carregar",
+            "REMOVE": "Remover",
+            "CANCEL": "Cancelar",
+            "FAIL_MESSAGE": "Falha ao registrar vagões",
+            "SUCCESS_MESSAGE": "Vagões adicionados com sucesso"
+        },
+        "ALERT": "Nenhuma categoria definida!",
+        "LOADING": "Carregando...",
+        "SAVING": "salvando...",
+        "WAGONSTATUS": "Vagões",
+        "ADD_UPLOAD": "Carregar Vagões",
+        "HOME": "Pagina Inicial"
+    },
+    "BIN": {
+        "TABLES": {
+            "TITLE": "Bins",
+            "SHOW": "Mostrar",
+            "ENTRIES": "Entradas",
+            "SEARCH_BY_NAME": "Pesquisar Pelo Nome",
+            "ID": "Id",
+            "NAME": "Nome",
+            "ACTIONS": "Acções",
+            "ADD_BIN": "Adicionar Bin",
+            "EDIT_BIN": "Editar Bin",
+            "DELETE_BIN": "Apagar Bin"
+        },
+        "BIN_ADD": {
+            "TITLE_EDIT": "Editar Bin",
+            "TITLE_ADD": "Adicionar Nova Bin",
+            "LABEL_NAME": "Nome",
+            "ERROR": {
+                "NAME_IS": "Nome é",
+                "REQUIRED": "Obrigatório"
+            },
+            "ADD": "Adicionar",
+            "EDIT": "Editar",
+            "CANCEL": "Cancelar"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Apagar Bin",
+            "DELETE_QUESTION": "Tem certeza que deseja excluir este bin?",
+            "YES": "Sim",
+            "NO": "Não"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Carregar bins",
+            "NAME": "Nome",
+            "PROGRESS": "Progresso da fila",
+            "UPLOAD": "Carregar",
+            "REMOVE": "Remover",
+            "CANCEL": "Cancelar",
+            "FAIL_MESSAGE": "Falha ao registrar bin",
+            "SUCCESS_MESSAGE": "Bins adicionados com sucesso"
+        },
+        "ALERT": "Nenhuma bin definida!",
+        "LOADING": "Carregando...",
+        "SAVING": "salvando...",
+        "BIN": "Bin",
+        "ADD_UPLOAD": "Carregar Agentes",
+        "HOME": "Pagina Inicial"
+    },
+    "LOADING_SITE": {
+        "TABLES": {
+            "TITLE": "LoadingSites",
+            "SHOW": "Mostrar",
+            "ENTRIES": "Entradas",
+            "SEARCH_BY_DESCRIPTION": "Pesquisar Pelo LoadingSite",
+            "ID": "Id",
+            "DESCRIPTION": "LoadingSite",
+            "ACTIONS": "Acções",
+            "ADD_LOADING_SITE": "Adicionar LoadingSite",
+            "EDIT_LOADING_SITE": "Editar LoadingSite",
+            "DELETE_LOADING_SITE": "Apagar LoadingSite"
+        },
+        "LOADING_SITE_ADD": {
+            "TITLE_EDIT": "Editar LoadingSite",
+            "TITLE_ADD": "Adicionar Nova LoadingSite",
+            "LABEL_DESCRIPTION": "Description",
+            "ERROR": {
+                "DESCRIPTION_IS": "Description é",
+                "REQUIRED": "Obrigatório"
+            },
+            "ADD": "Adicionar",
+            "EDIT": "Editar",
+            "CANCEL": "Cancelar"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Apagar LoadingSite",
+            "DELETE_QUESTION": "Tem certeza que deseja excluir este agente?",
+            "YES": "Sim",
+            "NO": "Não"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Carregar agentes",
+            "DESCRIPTION": "LoadingSite",
+            "PROGRESS": "Progresso da fila",
+            "UPLOAD": "Carregar",
+            "REMOVE": "Remover",
+            "CANCEL": "Cancelar",
+            "FAIL_MESSAGE": "Falha ao registrar loadingSites",
+            "SUCCESS_MESSAGE": "LoadingSites adicionados com sucesso"
+        },
+        "ALERT": "Nenhuma loadingSite definida!",
+        "LOADING": "Carregando...",
+        "SAVING": "salvando...",
+        "LOADING_SITE": "LoadingSite",
+        "ADD_UPLOAD": "Carregar LoadingSites",
+        "HOME": "Pagina Inicial"
+    }
+}

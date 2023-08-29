@@ -1,0 +1,88 @@
+{
+    "LOGIN_COMPONENT": {
+        "TITLE": "Log in your account!",
+        "SUB_TITLE": "We are the NAVAL",
+        "EMAIL_LABEL": "Email or Username",
+        "PASSWORD_LABEL": "Password",
+        "RESET_PASSWORD": "Forgot password?",
+        "SIGN_IN_BUTTON": "login"
+    },
+    "APP_COMPONENT": {
+    },
+    "HOME_COMPONENT": {
+        "TITLE": "Home"
+    },
+    "SIDE_BAR": {
+        "DASHBOARD": "Dashboard",
+        "ADMINISTRATION": "Administration",
+        "USERS_MANAGEMENT": "Users Management",
+        "ROLES_MANAGEMENT": "Roles Management",
+        "PERMISSION_MANAGEMENT": "Permissions Management",
+        "EMPLOYEE_MANAGEMENT": "Employee Management",
+        "SETUP": "Setup",
+        "CATEGORY": "Category",
+        "ROAD_NOTICE": "Road Notice",
+        "SERVICE_REQUISITION": "Service Requisition",
+        "CARGO_RECEIVE": "Cargo Reception",
+        "ROAD_RECEIVE": "Road Reception",
+        "RAIL_RECEIVE": "Rail Reception",
+        "RAIL_NOTICE": "Rail Notice",
+        "VIE_ALL_NOTICES": "View All Notices",
+        "AGENT": "Agent",
+        "CARGO_OWNER": "Cargo Owner",
+        "CARGO_GRADE": "Cargo Grade",
+        "SERVICE_REQUISITION_STATUS": "Service Requisition Status",
+        "ROAD_NOTICE_STATUS": "Road Notice Status",
+        "BIN": "Bin",
+        "LOADING_SITE": "Loading Site",
+        "EQUIPMENT_ALLOCATION": "Equipment allocation",
+        "STOCK_ADJUSTMENT": "Stock Adjustment"
+    },
+    "DELETE_COMPONENT": {
+        "YES": "Yes",
+        "NO": "No"
+    },
+    "CHANGE_PASSWORD": {
+        "TITLE": "Change Password",
+        "LABEL_NEW_PASSWORD": "New Password",
+        "LABEL_NEW_CONFIRM": "Confirm Password",
+        "CHANGE": "Change",
+        "CANCEL": "Cancel"
+    },
+    "NAV_BAR": {
+        "USER": {
+            "WELCOME": "Welcome",
+            "CHANGE_PASSWORD": "Change Password",
+            "LOGOUT": "Logout"
+        }
+    },
+    "UPLOAD": {
+        "UPLOAD_TITLE": "Upload Seed Data",
+        "NAME": "Name",
+        "PROGRESS": "Queue progress",
+        "UPLOAD": "Upload",
+        "REMOVE": "Remove",
+        "CANCEL": "Cancel",
+        "FAIL_MESSAGE": "Failed to Register Categories",
+        "SUCCESS_MESSAGE": "Categories Added Successfully"
+    },
+    "DASHBOARD": {
+        "HEADER": {
+            "DEFAULT": "Default",
+            "DASHBOARDS": "Dashboards"
+        },
+        "TRUCK": "Trucks",
+        "SCHEDULED_FOR_TODAY": "scheduled for today",
+        "TRAIN": "Train",
+        "FORECAST_FOR_THIS_WEEK": "Forecast for this week",
+        "TOTAL_LOAD": "Total Load",
+        "RECEIVED": "received",
+        "WEEKLY": "Weekly",
+        "TOTAL_LOAD_RECEIVED": "Total load received",
+        "LOAD_QUANTITY": "load Quantity",
+        "UNLOADED_BY_TRUCKS_PER_DAY": "unloaded by trucks per day",
+        "WHO_ARE_IN_PORT": "who are in port",
+        "UNLOADED_BY_TRAIN_PER_DAY": "unloaded by train per day",
+        "REQUEST_VOLUME_VS_WHAT_WAS_OFFLOAD": "request volume versus what was offload"
+    }
+}

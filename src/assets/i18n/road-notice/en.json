@@ -1,0 +1,26 @@
+{
+  "ROAD_NOTICE": {
+    "TITLE": "Log in your account!",
+    "HOME": "Home",
+    "NO_TRUCKS": "NO TRUCKS",
+    "ROAD_TRANSACTION": {
+      "ROAD_RECEIVE": "Road Reception",
+      "ROAD_DETAILS": "Road Details",
+      "ROAD_ARRIVAL": "Arrival",
+      "ROAD_TALLY": "Tally",
+      "ROAD_OFFLOAD": "OffLoad",
+      "ROAD_DEPARTURE": "Departure",
+      "ROAD_BIN": "Bins"
+    }
+  },
+  "UPLOAD": {
+    "UPLOAD_TITLE": "Upload Seed Data",
+    "NAME": "Name",
+    "PROGRESS": "Queue progress",
+    "UPLOAD": "Upload",
+    "REMOVE": "Remove",
+    "CANCEL": "Cancel",
+    "FAIL_MESSAGE": "Failed to Register Categories",
+    "SUCCESS_MESSAGE": "Categories Added Successfully"
+  }
+}

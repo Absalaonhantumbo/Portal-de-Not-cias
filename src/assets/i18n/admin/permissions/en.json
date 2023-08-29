@@ -1,0 +1,62 @@
+{
+  "PERMISSION_LIST_COMPONENT": {
+    "PERMISSION_ADD": {
+      "TITLE_EDIT": "Edit Permission",
+      "TITLE_ADD": "Add New Permission",
+      "LABEL_CODE": "Code",
+      "ERROR": {
+        "CODE_IS": "Code is",
+        "REQUIRED": "required"
+      },"LABEL_DESCRIPTION": "Description",
+      "ERROR_DESCRIPTION": {
+        "DESCRIPTION_IS": "Description is",
+        "REQUIRED": "required"
+      },
+      "ADD": "Add",
+      "EDIT": "Edit",
+      "CANCEL": "Cancel"
+    },
+    "DELETE": {
+      "DELETE_TITLE": "Delete Permission",
+      "DELETE_QUESTION": "Are you sure you want to delete this Permission?",
+      "YES": "Yes",
+      "NO": "No"
+    },
+    "UPLOAD_PERMISSION": {
+      "UPLOAD_TITLE": "Upload Permission",
+      "NAME": "Name",
+      "PROGRESS": "Queue progress",
+      "UPLOAD": "Upload",
+      "REMOVE": "Remove"
+    },
+    "PERMISSIONS_LIST_GRID_COLUMNS": {
+      "ID": "Id",
+      "CODE": "Code",
+      "DESCRIPTION": "Description",
+      "ACTIONS": "Actions"
+    },
+    "TITLE": "Permissions",
+    "SHOW": "Show",
+    "ENTRIES": "Entries",
+    "SEARCH_BY_NAME": "Search by description",
+    "ALERT": "No Permissions defined yet!",
+    "ADD_PERMISSION": "Add Permission",
+    "EDIT_PERMISSION": "Edit Permission",
+    "DELETE_PERMISSION": "Delete Permission",
+    "LOADING": "Loading...",
+    "SAVING": "Saving...",
+    "PERMISSION": "Permissions",
+    "HOME": "Home",
+    "ADD_UPLOAD": "Upload Permission",
+    "UPLOAD": {
+      "UPLOAD_TITLE": "Upload Seed Data",
+      "NAME": "Name",
+      "PROGRESS": "Queue progress",
+      "UPLOAD": "Upload",
+      "REMOVE": "Remove",
+      "CANCEL": "Cancel",
+      "FAIL_MESSAGE": "Failed to Register Categories",
+      "SUCCESS_MESSAGE": "Categories Added Successfully"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ROLE_LIST_COMPONENT": {
+    "ROLES_LIST_GRID_COLUMNS": {
+      "NAME": "Nome",
+      "NORMALIZEDNAME": "Nome Normalizado",
+      "ACTION": "Accoes"
+    },
+    "UPLOAD": {
+      "UPLOAD_TITLE": "Carregar Role",
+      "NAME": "Nome",
+      "PROGRESS": "Progresso da fila",
+      "UPLOAD": "Carregar",
+      "REMOVE": "Remover",
+      "CANCEL": "Cancelar",
+      "FAIL_MESSAGE": "Falha ao registrar Roles",
+      "SUCCESS_MESSAGE": "Roles adicionadas com sucesso"
+    }
+  }
+}

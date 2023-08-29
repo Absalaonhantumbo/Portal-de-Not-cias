@@ -1,0 +1,443 @@
+{
+    "AGENT": {
+        "TABLES": {
+            "TITLE": "Agents",
+            "SHOW": "Show",
+            "ENTRIES": "Entries",
+            "SEARCH_BY_NAME": "Search by name",
+            "ID": "Id",
+            "NAME": "Name",
+            "ACTIONS": "Actions",
+            "ADD_AGENT": "Add Agent",
+            "EDIT_AGENT": "Edit Agent",
+            "DELETE_AGENT": "Delete Agent"
+        },
+        "AGENT_ADD": {
+            "TITLE_EDIT": "Edit Agent",
+            "TITLE_ADD": "Add New Agent",
+            "LABEL_NAME": "Name",
+            "ERROR": {
+                "NAME_IS": "Name is",
+                "REQUIRED": "required"
+            },
+            "ADD": "Add",
+            "EDIT": "Edit",
+            "CANCEL": "Cancel"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Delete Agent",
+            "DELETE_QUESTION": "Are you sure you want to delete this Agent?",
+            "YES": "Yes",
+            "NO": "No"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Upload Seed Data",
+            "NAME": "Name",
+            "PROGRESS": "Queue progress",
+            "UPLOAD": "Upload",
+            "REMOVE": "Remove",
+            "CANCEL": "Cancel",
+            "FAIL_MESSAGE": "Failed to Register Agents",
+            "SUCCESS_MESSAGE": "Agents Added Successfully"
+        },
+        "ALERT": "No Agents defined yet!",
+        "LOADING": "Loading...",
+        "SAVING": "Saving...",
+        "AGENT": "Agent",
+        "ADD_UPLOAD": "Upload Agents",
+        "ACTION": "Action",
+        "HOME": "Home"
+    },
+    "CATEGORY": {
+        "TABLES": {
+            "TITLE": "Categories",
+            "SHOW": "Show",
+            "ENTRIES": "Entries",
+            "SEARCH_BY_NAME": "Search by name",
+            "ID": "Id",
+            "NAME": "Name",
+            "ACTIONS": "Actions",
+            "ADD_CATEGORY": "Add Category",
+            "EDIT_CATEGORY": "Edit Category",
+            "DELETE_CATEGORY": "Delete Category"
+        },
+        "CATEGORY_ADD": {
+            "TITLE_EDIT": "Edit Category",
+            "TITLE_ADD": "Add New Category",
+            "LABEL_NAME": "Name",
+            "ERROR": {
+                "NAME_IS": "Name is",
+                "REQUIRED": "required"
+            },
+            "ADD": "Add",
+            "EDIT": "Edit",
+            "CANCEL": "Cancel"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Delete Category",
+            "DELETE_QUESTION": "Are you sure you want to delete this category?",
+            "YES": "Yes",
+            "NO": "No"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Upload Seed Data",
+            "NAME": "Name",
+            "PROGRESS": "Queue progress",
+            "UPLOAD": "Upload",
+            "REMOVE": "Remove",
+            "CANCEL": "Cancel",
+            "FAIL_MESSAGE": "Failed to Register Categories",
+            "SUCCESS_MESSAGE": "Categories Added Successfully"
+        },
+        "ALERT": "No Categories defined yet!",
+        "LOADING": "Loading...",
+        "SAVING": "Saving...",
+        "CATEGORY": "Category",
+        "ADD_UPLOAD": "Upload Categories",
+        "ACTION": "Action",
+        "HOME": "Home"
+    },
+    "CARGO_OWNER": {
+        "TABLES": {
+            "TITLE": "Cargo Owners",
+            "SHOW": "Show",
+            "ENTRIES": "Entries",
+            "SEARCH_BY_NAME": "Search by name",
+            "ID": "Id",
+            "NAME": "Name",
+            "ACTIONS": "Actions",
+            "ADD_CARGO_OWNER": "Add Cargo Owner",
+            "EDIT_CARGO_OWNER": "Edit Cargo Owner",
+            "DELETE_CARGO_OWNER": "Delete Cargo Owner"
+        },
+        "CARGO_OWNER_ADD": {
+            "TITLE_EDIT": "Edit Cargo Owner",
+            "TITLE_ADD": "Add New Cargo Owner",
+            "LABEL_NAME": "Name",
+            "ERROR": {
+                "NAME_IS": "Name is",
+                "REQUIRED": "required"
+            },
+            "ADD": "Add",
+            "EDIT": "Edit",
+            "CANCEL": "Cancel"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Delete Cargo Owner",
+            "DELETE_QUESTION": "Are you sure you want to delete this Cargo Owner?",
+            "YES": "Yes",
+            "NO": "No"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Upload Seed Data",
+            "NAME": "Name",
+            "PROGRESS": "Queue progress",
+            "UPLOAD": "Upload",
+            "REMOVE": "Remove",
+            "CANCEL": "Cancel",
+            "FAIL_MESSAGE": "Failed to Register Cargo Owner",
+            "SUCCESS_MESSAGE": "Cargo Owner Added Successfully"
+        },
+        "ALERT": "No Cargo Owner defined yet!",
+        "LOADING": "Loading...",
+        "SAVING": "Saving...",
+        "CARGO_OWNER": "Cargo Owner",
+        "ADD_UPLOAD": "Upload Cargo Owner",
+        "ACTION": "Action",
+        "HOME": "Home"
+    },
+    "CARGO_GRADE": {
+        "TABLES": {
+            "TITLE": "Cargo Grades",
+            "SHOW": "Show",
+            "ENTRIES": "Entries",
+            "SEARCH_BY_NAME": "Search by name",
+            "ID": "Id",
+            "NAME": "Name",
+            "ACTIONS": "Actions",
+            "ADD_CARGO_GRADE": "Add Cargo Grade",
+            "EDIT_CARGO_GRADE": "Edit Cargo Grade",
+            "DELETE_CARGO_GRADE": "Delete Cargo Grade"
+        },
+        "CARGO_GRADE_ADD": {
+            "TITLE_EDIT": "Edit Cargo Grade",
+            "TITLE_ADD": "Add New Cargo Grade",
+            "LABEL_NAME": "Name",
+            "ERROR": {
+                "NAME_IS": "Name is",
+                "REQUIRED": "required"
+            },
+            "ADD": "Add",
+            "EDIT": "Edit",
+            "CANCEL": "Cancel"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Delete Category",
+            "DELETE_QUESTION": "Are you sure you want to delete this Cargo Grade?",
+            "YES": "Yes",
+            "NO": "No"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Upload Seed Data",
+            "NAME": "Name",
+            "PROGRESS": "Queue progress",
+            "UPLOAD": "Upload",
+            "REMOVE": "Remove",
+            "CANCEL": "Cancel",
+            "FAIL_MESSAGE": "Failed to Register Categories",
+            "SUCCESS_MESSAGE": "Cargo Grades Added Successfully"
+        },
+        "ALERT": "No Cargo Grades defined yet!",
+        "LOADING": "Loading...",
+        "SAVING": "Saving...",
+        "CARGO_GRADE": "Cargo Grade",
+        "ADD_UPLOAD": "Upload Cargo Grades",
+        "ACTION": "Action",
+        "HOME": "Home"
+    },
+    "SERVICEREQUISITIONSTATUS": {
+        "TABLES": {
+            "TITLE": "Service Requisition Status",
+            "SHOW": "Show",
+            "ENTRIES": "Entries",
+            "SEARCH_BY_DESCRIPTION": "Search by description",
+            "ID": "Id",
+            "DESCRIPTION": "Description",
+            "ACTIONS": "Actions",
+            "ADD_SERVICEREQUISITIONSTATUS": "Add Service Requisition Status",
+            "EDIT_SERVICEREQUISITIONSTATUS": "Edit Service Requisition Status",
+            "DELETE_SERVICEREQUISITIONSTATUS": "Delete Service Requisition Status"
+        },
+        "SERVICEREQUISITIONSTATUS_ADD": {
+            "TITLE_EDIT": "Edit Service Requisition Status",
+            "TITLE_ADD": "Add New Service Requisition Status",
+            "LABEL_NAME": "Description",
+            "ERROR": {
+                "DESCRIPTION_IS": "Description is",
+                "REQUIRED": "required"
+            },
+            "ADD": "Add",
+            "EDIT": "Edit",
+            "CANCEL": "Cancel"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Delete Service Requisition Status",
+            "DELETE_QUESTION": "Are you sure you want to delete this Service Requisition Status?",
+            "YES": "Yes",
+            "NO": "No"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Upload Seed Data",
+            "NAME": "Name",
+            "PROGRESS": "Queue progress",
+            "UPLOAD": "Upload",
+            "REMOVE": "Remove",
+            "CANCEL": "Cancel",
+            "FAIL_MESSAGE": "Failed to Register Service Requisition Status",
+            "SUCCESS_MESSAGE": "Service Requisition Status Added Successfully"
+        },
+        "ALERT": "No Service Requisition Status defined yet!",
+        "LOADING": "Loading...",
+        "SAVING": "Saving...",
+        "SERVICEREQUISITIONSTATUS": "Service Requisition Status",
+        "ADD_UPLOAD": "Upload Service Requisition Status",
+        "ACTION": "Action",
+        "HOME": "Home"
+    },
+    "ROADNOTICESTATUS": {
+        "TABLES": {
+            "TITLE": "Road Notice Status",
+            "SHOW": "Show",
+            "ENTRIES": "Entries",
+            "SEARCH_BY_DESCRIPTION": "Search by description",
+            "ID": "Id",
+            "DESCRIPTION": "Description",
+            "ACTIONS": "Actions",
+            "ADD_ROADNOTICESTATUS": "Add Road Notice Status",
+            "EDIT_ROADNOTICESTATUS": "Edit Road Notice Status",
+            "DELETE_ROADNOTICESTATUS": "Delete Road Notice Status"
+        },
+        "ROADNOTICESTATUS_ADD": {
+            "TITLE_EDIT": "Edit Road Notice Status",
+            "TITLE_ADD": "Add New Road Notice Status",
+            "LABEL_NAME": "Description",
+            "ERROR": {
+                "DESCRIPTION_IS": "Description is",
+                "REQUIRED": "required"
+            },
+            "ADD": "Add",
+            "EDIT": "Edit",
+            "CANCEL": "Cancel"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Delete Road Notice Status",
+            "DELETE_QUESTION": "Are you sure you want to delete this Road Notice Status?",
+            "YES": "Yes",
+            "NO": "No"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Upload Seed Data",
+            "NAME": "Name",
+            "PROGRESS": "Queue progress",
+            "UPLOAD": "Upload",
+            "REMOVE": "Remove",
+            "CANCEL": "Cancel",
+            "FAIL_MESSAGE": "Failed to Register Road Notice Status",
+            "SUCCESS_MESSAGE": "Road Notice Status Added Successfully"
+        },
+        "ALERT": "No Road Notice Status defined yet!",
+        "LOADING": "Loading...",
+        "SAVING": "Saving...",
+        "ROADNOTICESTATUS": "Road Notice Status",
+        "ADD_UPLOAD": "Upload Road Notice Status",
+        "ACTION": "Action",
+        "HOME": "Home"
+    },
+    "WAGONSTATUS": {
+        "TABLES": {
+            "TITLE": "Wagon Status",
+            "SHOW": "Show",
+            "ENTRIES": "Entries",
+            "SEARCH_BY_DESCRIPTION": "Search by description",
+            "ID": "Id",
+            "DESCRIPTION": "Description",
+            "ACTIONS": "Actions",
+            "ADD_WAGONSTATUS": "Add Wagon Status",
+            "EDIT_WAGONSTATUS": "Edit Wagon Status",
+            "DELETE_WAGONSTATUS": "Delete Wagon Status"
+        },
+        "WAGONSTATUS_ADD": {
+            "TITLE_EDIT": "Edit Wagon Status",
+            "TITLE_ADD": "Add New Wagon Status",
+            "LABEL_NAME": "Description",
+            "ERROR": {
+                "DESCRIPTION_IS": "Description is",
+                "REQUIRED": "required"
+            },
+            "ADD": "Add",
+            "EDIT": "Edit",
+            "CANCEL": "Cancel"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Delete Wagon Status",
+            "DELETE_QUESTION": "Are you sure you want to delete this Wagon Status?",
+            "YES": "Yes",
+            "NO": "No"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Upload Seed Data",
+            "NAME": "Name",
+            "PROGRESS": "Queue progress",
+            "UPLOAD": "Upload",
+            "REMOVE": "Remove",
+            "CANCEL": "Cancel",
+            "FAIL_MESSAGE": "Failed to Register Wagon Status",
+            "SUCCESS_MESSAGE": "Wagon Status Added Successfully"
+        },
+        "ALERT": "No Wagon Status defined yet!",
+        "LOADING": "Loading...",
+        "SAVING": "Saving...",
+        "WAGONSTATUS": "Wagon Status",
+        "ADD_UPLOAD": "Upload Wagon Status",
+        "ACTION": "Action",
+        "HOME": "Home"
+    },
+    "BIN": {
+        "TABLES": {
+            "TITLE": "Bins",
+            "SHOW": "Show",
+            "ENTRIES": "Entries",
+            "SEARCH_BY_NAME": "Search by name",
+            "ID": "Id",
+            "NAME": "Name",
+            "ACTIONS": "Actions",
+            "ADD_BIN": "Add Bin",
+            "EDIT_CATEGORY": "Edit Bin",
+            "DELETE_BIN": "Delete Bin"
+        },
+        "BIN_ADD": {
+            "TITLE_EDIT": "Edit Bin",
+            "TITLE_ADD": "Add New Bin",
+            "LABEL_NAME": "Name",
+            "ERROR": {
+                "NAME_IS": "Name is",
+                "REQUIRED": "required"
+            },
+            "ADD": "Add",
+            "EDIT": "Edit",
+            "CANCEL": "Cancel"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Delete Bin",
+            "DELETE_QUESTION": "Are you sure you want to delete this bin?",
+            "YES": "Yes",
+            "NO": "No"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Upload Seed Data",
+            "NAME": "Name",
+            "PROGRESS": "Queue progress",
+            "UPLOAD": "Upload",
+            "REMOVE": "Remove",
+            "CANCEL": "Cancel",
+            "FAIL_MESSAGE": "Failed to Register Categories",
+            "SUCCESS_MESSAGE": "Bins Added Successfully"
+        },
+        "ALERT": "No Bins defined yet!",
+        "LOADING": "Loading...",
+        "SAVING": "Saving...",
+        "BIN": "Bin",
+        "ADD_UPLOAD": "Upload Bins",
+        "ACTION": "Action",
+        "HOME": "Home"
+    },
+    "LOADING_SITE": {
+        "TABLES": {
+            "TITLE": "Loading Site",
+            "SHOW": "Show",
+            "ENTRIES": "Entries",
+            "SEARCH_BY_DESCRIPTION": "Search by description",
+            "ID": "Id",
+            "DESCRIPTION": "Description",
+            "ACTIONS": "Actions",
+            "ADD_LOADING_SITE": "Add Loading Site",
+            "EDIT_LOADING_SITE": "Edit Loading Site",
+            "DELETE_LOADING_SITE": "Delete Loading Site"
+        },
+        "LOADING_SITE_ADD": {
+            "TITLE_EDIT": "Edit Loading Site",
+            "TITLE_ADD": "Add New Loading Site",
+            "LABEL_DESCRIPTION": "Description",
+            "ERROR": {
+                "DESCRIPTION_IS": "Description is",
+                "REQUIRED": "required"
+            },
+            "ADD": "Add",
+            "EDIT": "Edit",
+            "CANCEL": "Cancel"
+        },
+        "DELETE": {
+            "DELETE_TITLE": "Delete Loading Site",
+            "DELETE_QUESTION": "Are you sure you want to delete this Loading Site?",
+            "YES": "Yes",
+            "NO": "No"
+        },
+        "UPLOAD": {
+            "UPLOAD_TITLE": "Upload Seed Data",
+            "DESCRIPTION": "Description",
+            "PROGRESS": "Queue progress",
+            "UPLOAD": "Upload",
+            "REMOVE": "Remove",
+            "CANCEL": "Cancel",
+            "FAIL_MESSAGE": "Failed to Register Loading Site",
+            "SUCCESS_MESSAGE": "Loading Sites Added Successfully"
+        },
+        "ALERT": "No Loading Sites defined yet!",
+        "LOADING": "Loading...",
+        "SAVING": "Saving...",
+        "LOADING_SITE": "Loading Site",
+        "ADD_UPLOAD": "Upload Loading Sites",
+        "ACTION": "Action",
+        "HOME": "Home"
+    }
+}

@@ -1,0 +1,48 @@
+{
+  "USER": {
+    "TABLES": {
+      "TITLE": "Users",
+      "SHOW": "Show",
+      "ENTRIES": "Entries",
+      "SEARCH_BY_FULL_NAME": "Search by Full Name",
+      "ID": "Id",
+      "NAME": "Name",
+      "ACTIONS": "Actions",
+      "ADD_USER": "Add User",
+      "EDIT_USER": "Edit User",
+      "DELETE_USER": "Delete User"
+    },
+    "USER_ADD": {
+      "TITLE_EDIT": "Edit User",
+      "TITLE_ADD": "Add New User",
+      "LABEL_NAME": "Name",
+      "ERROR": {
+        "NAME_IS": "Name is",
+        "REQUIRED": "required"
+      },
+      "ADD": "Add",
+      "EDIT": "Edit",
+      "CANCEL": "Cancel"
+    },
+    "DELETE": {
+      "DELETE_TITLE": "Delete User",
+      "DELETE_QUESTION": "Are you sure you want to delete this User?",
+      "YES": "Yes",
+      "NO": "No"
+    },
+    "UPLOAD_USERS": {
+      "UPLOAD_TITLE": "Upload Users",
+      "NAME": "Name",
+      "PROGRESS": "Queue progress",
+      "UPLOAD": "Upload",
+      "REMOVE": "Remove"
+    },
+    "ALERT": "No Users defined yet!",
+    "LOADING": "Loading...",
+    "SAVING": "Saving...",
+    "USER": "User",
+    "ADD_UPLOAD": "Upload Users",
+    "ACTION": "Action",
+    "HOME": "Home"
+  }
+}

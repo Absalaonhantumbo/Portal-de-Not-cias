@@ -1,0 +1,15 @@
+{
+  "ROAD_NOTICE": {
+    "TITLE": "Log in your account!"
+  },
+  "UPLOAD": {
+    "UPLOAD_TITLE": "Upload Seed Data",
+    "NAME": "Name",
+    "PROGRESS": "Queue progress",
+    "UPLOAD": "Upload",
+    "REMOVE": "Remove",
+    "CANCEL": "Cancel",
+    "FAIL_MESSAGE": "Failed to Register Categories",
+    "SUCCESS_MESSAGE": "Categories Added Successfully"
+  }
+}

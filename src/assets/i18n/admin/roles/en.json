@@ -1,0 +1,55 @@
+{
+  "ROLE_LIST_COMPONENT": {
+    "ROLE_ADD": {
+      "TITLE_EDIT": "Edit Role",
+      "TITLE_ADD": "Add New Role",
+      "LABEL_NAME": "Name",
+      "ERROR": {
+        "Name_IS": "Name is",
+        "REQUIRED": "required"
+      },"LABEL_NORMALIZEDNAME": "Normalized name",
+      "ERROR_NORMALIZEDNAME": {
+        "NORMALIZEDNAME_IS": "Normalized name is",
+        "REQUIRED": "required"
+      },
+      "ADD": "Add",
+      "EDIT": "Edit",
+      "CANCEL": "Cancel"
+    },
+    "DELETE": {
+      "DELETE_TITLE": "Delete Role",
+      "DELETE_QUESTION": "Are you sure you want to delete this Role?",
+      "YES": "Yes",
+      "NO": "No"
+    },
+    "ROLES_LIST_GRID_COLUMNS": {
+      "ID": "Id",
+      "NAME": "Name",
+      "NORMALIZEDNAME": "Normalized Name",
+      "ACTIONS": "Actions"
+    },
+    "TITLE": "Roles",
+    "SHOW": "Show",
+    "ENTRIES": "Entries",
+    "SEARCH_BY_NAME": "Search by name",
+    "ALERT": "No Roles defined yet!",
+    "ADD_ROLE": "Add Role",
+    "EDIT_ROLE": "Edit Role",
+    "DELETE_ROLE": "Delete Role",
+    "LOADING": "Loading...",
+    "SAVING": "Saving...",
+    "ROLE": "Roles",
+    "HOME": "Home",
+    "ADD_UPLOAD": "Upload Role",
+    "UPLOAD": {
+      "UPLOAD_TITLE": "Upload Seed Data",
+      "NAME": "Name",
+      "PROGRESS": "Queue progress",
+      "UPLOAD": "Upload",
+      "REMOVE": "Remove",
+      "CANCEL": "Cancel",
+      "FAIL_MESSAGE": "Failed to Register Roles",
+      "SUCCESS_MESSAGE": "Roles Added Successfully"
+    }
+  }
+}

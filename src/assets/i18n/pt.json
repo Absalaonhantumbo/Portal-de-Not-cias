@@ -1,0 +1,68 @@
+{
+    "LOGIN_COMPONENT": {
+        "TITLE": "Entre na sua conta!",
+        "SUB_TITLE": "Nós somos a NAVAL",
+        "EMAIL_LABEL": "Email or Username",
+        "PASSWORD_LABEL": "Senha",
+        "RESET_PASSWORD": "Esqueceu sua senha?",
+        "SIGN_IN_BUTTON": "Entrar"
+    },
+    "APP_COMPONENT": {
+    },
+    "HOME_COMPONENT": {
+        "TITLE": "Pagina inicial"
+    },
+    "SIDE_BAR": {
+        "DASHBOARD": "Pagina Inicial",
+        "ADMINISTRATION": "Administração",
+        "USERS_MANAGEMENT": "Gestão do Usuario",
+        "ROLES_MANAGEMENT": "Gestão de Funções",
+        "PERMISSION_MANAGEMENT": "Gestão de Permissões",
+        "EMPLOYEE_MANAGEMENT": "Gestão do Funcionario",
+        "SETUP": "configurações",
+        "CATEGORY": "Categoria",
+        "ROAD_NOTICE": "Notificacao de chegada de camiao",
+        "SERVICE_REQUISITION": "Requisicao de Servicos",
+        "CARGO_RECEIVE": "Recepcao de carga",
+        "ROAD_RECEIVE": "chegada rodoviarias",
+        "RAIL_RECEIVE": "chegadas ferroviarias"
+        "RAIL_NOTICE": "Chegadas Ferroviarias",
+        "VIE_ALL_NOTICES": "Ver Todos Avisos",
+        "AGENT": "Agente",
+        "CARGO_OWNER": "Proprietario da Carga",
+        "CARGO_GRADE": "Grau de Carga",
+        "SERVICE_REQUISITION_STATUS": "Status da Requisicao",
+        "ROAD_NOTICE_STATUS": "Status do Notificacao Rodoviaria",
+        "Bin": "Bin",
+        "LOADING_SITE": "Site de Carregamento",
+        "STOCK_ADJUSTMENT": "Ajuste de Stock"
+    },
+    "DELETE_COMPONENT": {
+        "YES": "Sim",
+        "NO": "Não"
+    },
+    "CHANGE_PASSWORD": {
+        "TITLE": "Alterar a senha",
+        "LABEL_NEW_PASSWORD": "Nova senha",
+        "LABEL_NEW_CONFIRM": "Confirmar a senha",
+        "CHANGE": "Mudar",
+        "CANCEL": "Cancelar"
+    },
+    "NAV_BAR": {
+        "USER": {
+            "WELCOME": "Bem Vindo",
+            "CHANGE_PASSWORD": "Alterar a senha",
+            "LOGOUT": "Sair"
+        }
+    },
+    "UPLOAD": {
+        "UPLOAD_TITLE": "Carregar categorias",
+        "NAME": "Nome",
+        "PROGRESS": "Progresso da fila",
+        "UPLOAD": "Carregar",
+        "REMOVE": "Remover",
+        "CANCEL": "Cancelar",
+        "FAIL_MESSAGE": "Falha ao registrar categorias",
+        "SUCCESS_MESSAGE": "Categorias adicionadas com sucesso"
+    }
+}

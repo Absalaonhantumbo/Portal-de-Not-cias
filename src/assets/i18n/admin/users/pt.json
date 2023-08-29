@@ -1,0 +1,47 @@
+{
+  "USER": {
+    "TABLES": {
+      "TITLE": "Usuarios",
+      "SHOW": "Mostrar",
+      "ENTRIES": "Entradas",
+      "SEARCH_BY_NAME": "Pesquisar Pelo Nome",
+      "ID": "Id",
+      "NAME": "Nome",
+      "ACTIONS": "Acções",
+      "ADD_USER": "Adicionar Usuario",
+      "EDIT_USER": "Editar Usuario",
+      "DELETE_USER": "Apagar Usuario"
+    },
+    "USER_ADD": {
+      "TITLE_EDIT": "Editar Usuario",
+      "TITLE_ADD": "Adicionar Novo Usuario",
+      "LABEL_NAME": "Nome",
+      "ERROR": {
+        "NAME_IS": "Nome é",
+        "REQUIRED": "Obrigatório"
+      },
+      "ADD": "Adicionar",
+      "EDIT": "Editar",
+      "CANCEL": "Cancelar"
+    },
+    "DELETE": {
+      "DELETE_TITLE": "Apagar Usuario",
+      "DELETE_QUESTION": "Tem certeza que deseja excluir este Usuario?",
+      "YES": "Sim",
+      "NO": "Não"
+    },
+    "UPLOAD_USERS": {
+      "UPLOAD_TITLE": "Carregar Usuarios",
+      "NAME": "Nome",
+      "PROGRESS": "Progresso da fila",
+      "UPLOAD": "Carregar",
+      "REMOVE": "Cancelar"
+    },
+    "ALERT": "Nenhuma Usuario definida!",
+    "LOADING": "Carregando...",
+    "SAVING": "salvando...",
+    "USER": "Usuario",
+    "ADD_UPLOAD": "Carregar Usuarios",
+    "HOME": "Pagina Inicial"
+  }
+}

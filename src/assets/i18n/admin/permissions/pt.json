@@ -1,0 +1,19 @@
+{
+  "PERMISSION_LIST_COMPONENT": {
+    "PERMISSIONS_LIST_GRID_COLUMNS": {
+      "CODE": "Code",
+      "DESCRIPTION": "Description",
+      "ACTION": "Action"
+    },
+    "UPLOAD": {
+      "UPLOAD_TITLE": "Carregar Permission",
+      "NAME": "Nome",
+      "PROGRESS": "Progresso da fila",
+      "UPLOAD": "Carregar",
+      "REMOVE": "Remover",
+      "CANCEL": "Cancelar",
+      "FAIL_MESSAGE": "Falha ao registrar Permission",
+      "SUCCESS_MESSAGE": "Permission adicionadas com sucesso"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "SERVICE_REQUISITION": {
+    "TABLES": {
+      "TITLE": "Requisição de Serviço",
+      "SHOW": "Mostrar",
+      "ENTRIES": "Entradas",
+      "SEARCH_BY_NAME": "Pesquisar Pelo Nome",
+      "ID": "Id",
+      "NAME": "Nome",
+      "ACTIONS": "Acções",
+      "ADD_SERVICE": "Adicionar Serviço",
+      "EDIT_SERVICE": "Editar Serviço",
+      "DELETE_SERVICE": "Apagar Serviço"
+    }
+}
+}

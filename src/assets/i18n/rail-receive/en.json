@@ -1,0 +1,58 @@
+{
+  "RAIL_RECEIVE": {
+    "RAIL_RECEIVE": "Rail Receive",
+    "RAIL_TALLY": "Tally",
+    "RAIL_OFFLOAD": "Offload",
+    "RAIL_ARRIVAL": "Arrival",
+    "RAIL_DEPARTURE": "Departure",
+    "NO_CONSIGNMENTS": "NO CONSIGNMENTS",
+    "NO_WAGONS": "NO WAGONS",
+    "HOME": "Home",
+    "WAGONS": "Wagons",
+    "CONSIGNMENTS": "Rail Notice Consignments",
+    "DETAILS": "Details",
+    "SEARCH": "Search",
+    "WAGON_INFO": "Wagon Information",
+    "WAGON_OFFLOAD": {
+      "TITLE": "Wagons Offload",
+      "WAGON_NUMBER": "Wagon Number",
+      "QUANTITY": "Quantity",
+      "HEALTH_STATUS": "Wagon Health Status",
+      "OPERATION_STATUS": "Operation Status",
+      "ACTIONS": {
+        "BEGIN_OFFLOAD": "Begin Offload",
+        "END_OFFLOAD": "End Offload"
+      }
+    },
+    "WAGON_TALLY": {
+      "TITLE": "Wagons Tally",
+      "WAGON_NUMBER": "Wagon Number",
+      "QUANTITY": "Quantity",
+      "HEALTH_STATUS": "Wagon Health Status",
+      "OPERATION_STATUS": "Operation Status",
+      "ACTIONS": {
+        "AUTHORIZE": "Authorize",
+        "DECLINE": "Decline"
+      }
+    },
+    "ARRIVAL": {
+      "HEADER_TITLE": "Consignments Arrival"
+    },
+    "TALLY": {
+      "HEADER_TITLE": "Consignments Tally"
+    },
+    "OFFLOAD": {
+      "HEADER_TITLE": "Consignments Offload"
+    },
+    "DEPARTURE": {
+      "HEADER_TITLE": "Consignments Departure"
+    },
+    "CONSIGNMENT_HEADER": {
+      "CONSIGNMENT_NUMBER": "Consignment Number",
+      "ARRIVAL_DATE": "Arrival Date",
+      "WAGONS_COUNT": "Number of Wagons"
+    },
+    "CONSIGNMENT_ITEM": {
+    }
+  }
+}
