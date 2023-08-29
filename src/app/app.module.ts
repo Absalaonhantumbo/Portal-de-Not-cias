@@ -8,9 +8,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatButtonModule} from "@angular/material/button";
 import {MatProgressBarModule} from "@angular/material/progress-bar";
 import { NavBarComponent } from './pages/nav-bar/nav-bar.component';
-import { ArticlesComponent } from './containes/categories/articles.component';
+import { ArticlesComponent } from './containes/articles/articles.component';
 import {HttpClientModule} from "@angular/common/http";
-import { ArticlesItemComponent } from './containes/categories/articles-item/articles-item.component';
+import { ArticlesItemComponent } from './containes/articles/articles-item/articles-item.component';
 import {MatCardModule} from "@angular/material/card";
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
