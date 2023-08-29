@@ -8,7 +8,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatButtonModule} from "@angular/material/button";
 import {MatProgressBarModule} from "@angular/material/progress-bar";
 import { NavBarComponent } from './pages/nav-bar/nav-bar.component';
-import { CategoriesComponent } from './containes/categories/categories.component';
+import { ArticlesComponent } from './containes/categories/articles.component';
 import {HttpClientModule} from "@angular/common/http";
 import { ArticlesItemComponent } from './containes/categories/articles-item/articles-item.component';
 import {MatCardModule} from "@angular/material/card";
@@ -19,7 +19,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
     AppComponent,
     LoginPagesComponent,
     NavBarComponent,
-    CategoriesComponent,
+    ArticlesComponent,
     ArticlesItemComponent,
   ],
   imports: [
